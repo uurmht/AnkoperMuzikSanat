@@ -15,12 +15,5 @@ namespace AnkoperSanatveMuzikOkulu.Controllers
             return View();
         }
 
-        public void deneme()
-        {
-        }
-
-        public void deneme1()
-        {
-        }
     }
 }

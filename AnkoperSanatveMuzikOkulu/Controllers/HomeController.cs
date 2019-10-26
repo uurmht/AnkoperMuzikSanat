@@ -11,7 +11,12 @@ namespace AnkoperSanatveMuzikOkulu.Controllers
         // GET: Home
         public ActionResult Index()
         {
+
             return View();
+        }
+
+        public void deneme()
+        {
         }
     }
 }

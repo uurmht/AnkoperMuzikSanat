@@ -18,5 +18,9 @@ namespace AnkoperSanatveMuzikOkulu.Controllers
         public void deneme()
         {
         }
+
+        public void deneme1()
+        {
+        }
     }
 }
